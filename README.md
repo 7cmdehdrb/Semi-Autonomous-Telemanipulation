@@ -140,3 +140,6 @@ Based on the analysis, the following results were generated:
 ![Fig11(1)](./src/log_file/images/Fig11(1).png)
 
 These images summarize the outcomes of the parameterized evaluations visually.
+
+
+[PDF 열기](./article.pdf)
